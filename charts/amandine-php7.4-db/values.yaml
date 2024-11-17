@@ -1,10 +1,10 @@
-NameSpace: mycloud
-AppName: amandine-php74-db
+NameSpace: koden-clients
+AppName: odsr-db
 
 MariadbReplicas: 1
 MariadbImageTag: latest
 MariadbDiskSize: 5Gi
 MariadbServerId: 2
-MariadbDbName: mydatabase
-MariadbDbUser: username
+MariadbDbName: DB_jvd4bf23jx
+MariadbDbUser: jvd4bf23jx
 MariadbDbPort: 3306
